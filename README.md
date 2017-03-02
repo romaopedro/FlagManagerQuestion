@@ -24,6 +24,6 @@ Run the performance test:
 
  > Description: **the line with the code that was missing**
 
- > Performance: **Run the performance test and paste the result**
+ > Performance: **Go to your travis-ci build and copy the performance test and paste the result**
 
 Sample: https://github.com/cesarferreira/FlagManagerQuestion/pull/1

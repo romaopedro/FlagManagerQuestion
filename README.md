@@ -11,7 +11,7 @@ Implement the method `areAllFlagsOff` so it only returns `true` when all of the 
 - Open a pull request with a possible solution for this problem
 
 ### Run the performance test:
- `./gradlew -PmainClass=Main execute`
+ `./gradlew runApp`
 
  ```bash
  Running 10 million times took: 34.991 milliseconds

@@ -4,7 +4,6 @@ Given 4 boolean flags `a`, `b`, `c`, `d`
 
 Implement the method `areAllFlagsOff` so it only returns `true` when all of the flags are `false`
 
-------
 ## Proposing a solution
 
 - The project contains `tests` to cover all of the combinations possible
@@ -16,11 +15,10 @@ Run the performance test:
 
  ```bash
  Running 10 million times took: 34.991 milliseconds
-
- BUILD SUCCESSFUL
  ```
 
- ## Pull request template
+
+## Pull request template
 
  > Title: **Describe what you did**
 

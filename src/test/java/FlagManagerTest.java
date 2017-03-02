@@ -7,11 +7,6 @@ public class FlagManagerTest {
 
     private FlagManager mCut;
 
-    @Before
-    public void setUp() throws Exception {
-
-    }
-
     @Test
     public void all_flags_off() throws Exception {
         // given

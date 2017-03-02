@@ -16,7 +16,8 @@ public class FlagManager {
     public boolean areAllFlagsOff() {
         boolean result = false;
         // TODO
-        throw new NotImplementedException();
+//        throw new NotImplementedException();
+        return !(a | b | c | d);
     }
 
 }

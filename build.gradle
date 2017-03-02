@@ -13,7 +13,7 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.11'
 }
 
-task execute(type:JavaExec) {
-    main = mainClass
+task runApp(type: JavaExec) {
     classpath = sourceSets.main.runtimeClasspath
+    main = 'Main'
 }

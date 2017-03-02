@@ -12,4 +12,4 @@ cache:
 
 script:
     - ./gradlew test
-    - ./gradlew -PmainClass=Main execute
+    - ./gradlew runApp

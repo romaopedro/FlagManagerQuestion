@@ -3,7 +3,7 @@ import java.text.DecimalFormat;
 public class Main {
     public static void main(String[] args) {
 
-        final int ITERATIONS = 10000000;
+        final int ITERATIONS = 1000000000;
 
         int value = 20;
         double sum = 0;

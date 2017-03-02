@@ -71,4 +71,11 @@ public class FlagManagerTest {
         // then
         assertFalse(areAllFlagsOff);
     }
+
+    @Test
+    public void time_spent() throws Exception {
+
+
+        assertTrue(true);
+    }
 }

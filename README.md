@@ -10,13 +10,12 @@ Implement the method `areAllFlagsOff` so it only returns `true` when all of the 
 - run the `./gradlew test` to see if your solution works
 - Open a pull request with a possible solution for this problem
 
-Run the performance test:
- > ./gradlew -PmainClass=Main execute
+### Run the performance test:
+ `./gradlew -PmainClass=Main execute`
 
  ```bash
  Running 10 million times took: 34.991 milliseconds
  ```
-
 
 ## Pull request template
 
